@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Page-Download-Video/static/css/main.609c6689.chunk.css",
+    "main.js": "/Page-Download-Video/static/js/main.0ed99896.chunk.js",
+    "main.js.map": "/Page-Download-Video/static/js/main.0ed99896.chunk.js.map",
+    "runtime-main.js": "/Page-Download-Video/static/js/runtime-main.9d4b962a.js",
+    "runtime-main.js.map": "/Page-Download-Video/static/js/runtime-main.9d4b962a.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Page-Download-Video/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b8cd4d1b.chunk.js": "/Page-Download-Video/static/js/2.b8cd4d1b.chunk.js",
+    "static/js/2.b8cd4d1b.chunk.js.map": "/Page-Download-Video/static/js/2.b8cd4d1b.chunk.js.map",
+    "index.html": "/Page-Download-Video/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Page-Download-Video/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.609c6689.chunk.css.map": "/Page-Download-Video/static/css/main.609c6689.chunk.css.map",
+    "static/js/2.b8cd4d1b.chunk.js.LICENSE.txt": "/Page-Download-Video/static/js/2.b8cd4d1b.chunk.js.LICENSE.txt",
+    "static/media/pexels-cottonbro-5435180.7a0dd772.jpg": "/Page-Download-Video/static/media/pexels-cottonbro-5435180.7a0dd772.jpg",
+    "static/media/pexels-harrison-haines-3536235.00e70acf.jpg": "/Page-Download-Video/static/media/pexels-harrison-haines-3536235.00e70acf.jpg",
+    "static/media/pexels-jean-cont-10126253.a1d2e6c7.jpg": "/Page-Download-Video/static/media/pexels-jean-cont-10126253.a1d2e6c7.jpg",
+    "static/media/pexels-jirzo-nez-10122322.fdd42132.jpg": "/Page-Download-Video/static/media/pexels-jirzo-nez-10122322.fdd42132.jpg",
+    "static/media/pexels-karolina-grabowska-5422694.e93dfe8e.jpg": "/Page-Download-Video/static/media/pexels-karolina-grabowska-5422694.e93dfe8e.jpg",
+    "static/media/pexels-mario-wallner-9882189.20c4322f.jpg": "/Page-Download-Video/static/media/pexels-mario-wallner-9882189.20c4322f.jpg",
+    "static/media/pexels-pixabay-35888.ea2cc660.jpg": "/Page-Download-Video/static/media/pexels-pixabay-35888.ea2cc660.jpg",
+    "static/media/pexels-shahin-khalaji-10032462.4401cf6f.jpg": "/Page-Download-Video/static/media/pexels-shahin-khalaji-10032462.4401cf6f.jpg",
+    "static/media/pexels-thirdman-5407935.f8193484.jpg": "/Page-Download-Video/static/media/pexels-thirdman-5407935.f8193484.jpg",
+    "static/media/pexels-thirdman-5408080.4ca90e43.jpg": "/Page-Download-Video/static/media/pexels-thirdman-5408080.4ca90e43.jpg",
+    "static/media/pexels-vinícius-vieira-ft-5744639.082260dc.jpg": "/Page-Download-Video/static/media/pexels-vinícius-vieira-ft-5744639.082260dc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d4b962a.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.b8cd4d1b.chunk.js",
+    "static/css/main.609c6689.chunk.css",
+    "static/js/main.0ed99896.chunk.js"
+  ]
+}
